@@ -1,6 +1,6 @@
-👋 Holla World, I'm Gabie Rise
+# 👋 Holla World, I'm Gabie Rise
 - 🔭 I’m currently working on my creative skills
-- 🌱 I’m working on web dev, python, ui/ux
-- contact me @merrygabby14@gmail.com
-
-- ⚡ Fun fact: I'm open to learn new thngs , and I'm a fast learner
+🌱 I’m currently learning python, html, css and javscript
+💞️ I’m looking to collaborate on both frontend and backend development
+⚡ Fun fact: I'm open to learn new things , and I'm a fast learner
+📫 contact me  @merrygabby14@gmail.com

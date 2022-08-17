@@ -6,4 +6,4 @@
 📫 contact me  @merrygabby14@gmail.com
 :car: let's explore together
 # 😌 Stay jiggy, lets' code :computer: :dollar: :dollar: :house:
-Day in the life of a Developer
+Day in the life of a Developer 💻

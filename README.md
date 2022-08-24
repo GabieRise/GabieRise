@@ -3,9 +3,9 @@
 🌱 I’m currently learning python, Web Development(front-end) and UI/UX.
 💞️ I’m looking to collaborate on both frontend and backend development
 ⚡ Fun fact: I'm open to learn new things , and I'm a fast learner
-:car: let's explore together
+:car: let's explore together.
 # 😌 Stay jiggy, let's code :computer: :dollar: :dollar: :house:
-Day in the life of a software Developer 💻
+Day in the life of a  Developer 💻
 <p align='center'>
 <a href="https://twitter.com/rise_gabie" target="_blank">
   <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />

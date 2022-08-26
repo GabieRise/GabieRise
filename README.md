@@ -3,7 +3,7 @@
 🌱 I’m currently learning python, Web Development(front-end) and UI/UX.
 💞️ I’m looking to collaborate on both frontend and backend development
 ⚡ Fun fact: I'm open to learn new things , and I'm a fast learner
-:car: let's explore together.
+:car:.
 # 😌 Stay jiggy, let's code :computer: :dollar: :dollar: :house:
 Day in the life of a aspiring Developer 💻
 <p align='center'>

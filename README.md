@@ -4,7 +4,7 @@
 💞️ I’m looking to collaborate on both frontend and backend development
 ⚡ Fun fact: I'm open to learn new things , and I'm a fast learner
 :car:.
-# 😌 Stay jiggy, let's code :computer: :dollar: :dollar: :house:
+# 😌  let's code :computer: :dollar: :dollar: :house:
 Day in the life of a aspiring Developer 💻
 <p align='center'>
 <a href="https://twitter.com/rise_gabie" target="_blank">

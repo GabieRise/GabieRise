@@ -1,6 +1,6 @@
 # 👋 Holla World, I'm Gabie Rise
 - 🔭 I’m working on my creative skills
-🌱 I’m a software developer.
+🌱 I’m a junior fullstack developer.
 🫂 I’m looking to collaborate on both frontend and backend development
 ⚡ Fun fact: I'm open to learn new things , and I'm a fast learner
 :car:.
